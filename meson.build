@@ -15,7 +15,6 @@ incdir = include_directories('include')
 
 source_files = [
     'main.c',
-    'src/folder/file.c',
 ]
 
 executable(
